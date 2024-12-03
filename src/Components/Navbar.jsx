@@ -24,7 +24,6 @@ export default function Navbar() {
                                 <MdDarkMode size={30} className="hover:cursor-pointer" onClick={() => darkModeHandler()} />
                             )
                         }
-                        
                     </li>
                     <li>
                         <MdOutlineMenu size={30} className="hover:cursor-pointer" />

@@ -6,8 +6,6 @@ import Portfolio from './Components/Portfolio'
 import Layout from './Layout/Layout'
 
 function App() {
-    const [count, setCount] = useState(0)
-
     return (
         <Layout>
             <Portfolio />
